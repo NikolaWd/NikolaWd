@@ -1,6 +1,6 @@
-# 👋 Hi! 😅
+# Hi!
 
-If you love bugs, unoptimized code, and weird workarounds, you're in the right place! 😎
+If you love bugs, unoptimized code, and weird workarounds, you're in the right place!
 
 ## 🧐 Who am I?
 - 💻 A developer (at least that's what I call myself)
