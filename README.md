@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi! 😅
 
-<!--
-**NikolaWd/NikolaWd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you love bugs, unoptimized code, and weird workarounds, you're in the right place! 😎
 
-Here are some ideas to get you started:
+## 🧐 Who am I?
+- 💻 A developer (at least that's what I call myself)
+- 🐛 Professional bug creator
+- 🚀 I deploy directly to production (because what could go wrong?)
+- 🤡 Stack Overflow is my real teammate
+- 📝 Documentation? Who even reads that? 😆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My "Skills"
+✅ Writing code that only I can understand (sometimes)
+✅ Refactoring code and making it worse
+✅ "Works on my machine"™ debugging methodology
+✅ Forgetting to close brackets, commas, and semicolons
+✅ Writing comments only when I remember
